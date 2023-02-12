@@ -6,4 +6,4 @@ are you ready?
 
  yes
 
-"this lesson about github"
+_this lesson about github_
